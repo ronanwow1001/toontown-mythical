@@ -1,6 +1,6 @@
 @echo off
 
-title Toontown Offline - Astron Server
+title Toontown Mythical - Astron Server
 
 cd..
 cd astron
