@@ -1,3 +1,0 @@
-start_uberdog_server.bat
-start_ai_server.bat
-start_astron.bat
