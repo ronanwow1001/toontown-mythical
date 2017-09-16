@@ -1,6 +1,6 @@
 @echo off
 
-title Toontown Offline - AI Server
+title Toontown Mythical - AI Server
 
 cd..
 
