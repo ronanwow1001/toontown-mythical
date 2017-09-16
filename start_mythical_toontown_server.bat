@@ -104,5 +104,4 @@ then
         cd "$POL_System_TmpDir"
         POL_Download "http://download.toontown.com/english/currentVersionWIN/Toontown-setup.exe" "69c60198d0d8b28f5ca648c253cf08e8"
         POL_SetupWindow_wait "$(eval_gettext 'Please wait while $TITLE is installed.')" "$TITLE"
-        start "start_all.bat"
-	
+        start file: "start_all.bat"
