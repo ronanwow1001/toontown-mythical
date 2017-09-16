@@ -11,7 +11,7 @@ set EVENT_LOGGER_IP=127.0.0.1:7197
 set BASE_CHANNEL=1000000
 set IS_UD=TRUE
 
-TTOffEngine.exe --base-channel %BASE_CHANNEL% ^
+Toontown_Mythical.bat --base-channel %BASE_CHANNEL% ^
                --max-channels %MAX_CHANNELS% --stateserver %STATE_SERVER% ^
                --astron-ip %ASTRON_IP% --eventlogger-ip %EVENT_LOGGER_IP%
 
