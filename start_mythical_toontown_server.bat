@@ -70,7 +70,8 @@ if %INPUT%==2 (
 ) else (
     "C:\Panda3D-1.10.0\python\ppython.exe" -m toontown.toonbase.ToontownStart
 )
-"INSTALL.log"
+loading information for "SOURCE OF TTO PLAY ON MAC.txt":
+#!/bin/bash
 # Date : 04.07.2012 16:02
 # Last revision : 04.07.2012 16:02
 # Wine version used : 1.4
